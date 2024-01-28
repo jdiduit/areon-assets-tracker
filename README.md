@@ -1,7 +1,7 @@
 <img src="repository-images/areon-tracker.png" width="550px">
 
 # Areon Assets Tracker
-Web app for tracking balances of ARC-20 & ARC-721 assets on Areon Mainnet & Testnet.
+Browser extension & Web app for tracking balances of ARC-20 & ARC-721 assets on Areon Mainnet & Testnet.
 
 ## Problem & solution
 It is very convenient to have a tool for tracking the balance of assets of your own or other wallets, especially if the blockchain for which it was created has different networks (Mainnet and Testnet).
